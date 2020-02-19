@@ -1,0 +1,22 @@
+header{
+    color: pink; 
+    background: white; 
+}
+body{
+    color: gold;
+    background: white; 
+}
+
+nav{ 
+    color: blue;
+    background: white;
+}
+
+h2{
+    color: green;
+    background: white; 
+}
+#colortest{
+    color:red;
+    background: white; 
+}
